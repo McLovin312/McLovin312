@@ -27,11 +27,11 @@ Day to day I diagnose Python and Java scripting issues, tune gateway and JVM per
 | --- | --- |
 | **Languages** | Python, Java, SQL, JavaScript, TypeScript, C, Kotlin, HTML, CSS, Ladder Logic |
 | **Databases** | Microsoft SQL Server, PostgreSQL, MySQL, MariaDB, Oracle, SQLite, QuestDB |
-| **Backend** | Django, FastAPI, Spring Boot, Node.js, REST API design, JDBC |
-| **Frontend** | React.js, TypeScript, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, REST API, JDBC |
+| **Frontend** | React.js, TypeScript, HTML5, CSS3, EJS |
 | **Industrial** | Ignition SCADA, OPC UA, PLCs, HMI Design, Industrial Ethernet, Motor Controls, VFDs, Vision Systems |
-| **Infrastructure** | AWS, Docker, Kubernetes, VMware, Hyper-V, UNIX and Linux, Networking, Firewalls |
-| **Practice** | Root Cause Analysis, System Architecture, Performance Tuning, Technical Documentation, Git, Jira |
+| **Infrastructure** | AWS, Docker, Kubernetes, VMware, Hyper-V, UNIX and Linux, Networking |
+| **Practice** | Root Cause Analysis, System Architecture, Performance Tuning, Technical Documentation, Git, Jira, YouTrack |
 
 ## Selected Work
 
